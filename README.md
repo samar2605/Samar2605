@@ -4,11 +4,10 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Samar2605&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on buiding web apps with ASP .NET Core 
-- 🌱 I’m currently learning Web APIs with ASP .NET Core
+- 🔭 I’m currently working on building web apps with ReactJS 
 - 👯 I’m looking to collaborate on any web application
-- 🤔 I’m looking for help regarding setting up AWS
-- 💬 Ask me about C++, C# and ASP .NET Core
+- 🤔 I’m looking for opportunities in software engineering
+- 💬 Ask me about C++, Python, Javascript
 - 📫 How to reach me: samarsinghai26@gmail.com
 
 
